@@ -13,7 +13,8 @@
 		// 		}
 		// 	})
 		// })
-
+		
+		//SECUND CODE SCRIPT
 		$(document).ready(function(){
 			$("#show-pass").click(function(e){
 				e.preventDefault();
